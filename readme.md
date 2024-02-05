@@ -1,18 +1,18 @@
 # RETROSPECTIVA 1
 
-## Seguir haciendo.
+## Empezar a hacer.
 - asda
 
 ## Hacer más.
 - asda
 
-## Hacer menos
+## Seguir haciendo.
 - asdas
 
-## Empezar a hacer
+## Hacer menos.
 - asa
 
-## Dejar de hacer
+## Dejar de hacer.
 - asdas
 
 
