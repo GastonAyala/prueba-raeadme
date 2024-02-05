@@ -1,19 +1,23 @@
 # RETROSPECTIVA 1
 
 ## Empezar a hacer.
-- asda
+- Ser honesto
+- Participar más
+- Establecer pautas de reuniones
 
 ## Hacer más.
-- asda
+- Reunirse mas seguido
+- Hacer mas consultas
+- Mover las inciidencias en Jira
 
 ## Seguir haciendo.
-- asdas
+- Reuniones semanales
 
 ## Hacer menos.
-- asa
+- Dejar mucho tiempo sin comunicarnos
 
 ## Dejar de hacer.
-- asdas
+- Subestimar los tiempos
 
 
 ![estrellaRetro-1.png](/estrellaRetro-1.png)
