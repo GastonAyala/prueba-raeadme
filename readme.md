@@ -16,5 +16,5 @@
 - asdas
 
 
-![estrellaRetro-1.png](https://github.com/GastonAyala/prueba-raeadme/blob/master/estrellaRetro-1.png)
+![estrellaRetro-1.png](/estrellaRetro-1.png)
  
